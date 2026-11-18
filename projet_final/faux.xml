@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Fichier volontairement incorrect pour le test XSD -->
+<document cote="LIV-14" type="livre" disponible="true">
+    <titre>Le Jardin des Sables</titre>
+    <auteur>Binta Seck</auteur>
+    <auteur>Awa Sy</auteur>
+    <annee>2012</annee>
+    <prix>3500</prix>
+</document>
